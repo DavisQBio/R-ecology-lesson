@@ -28,8 +28,8 @@ how to work with databases directly from R.
 
 ## Chapters
 
-1. [Before we start](00-before-we-start.html)
-2. [Introduction to R](01-intro-to-r.html)
+1. [Before we start](00-before-we-start)
+2. [Introduction to R](01-intro-to-r)
 3. [Starting with data](02-starting-with-data.html)
 4. [Aggregating and analyzing data with dplyr](03-dplyr.html)
 5. [Data visualization with **`ggplot2`**](04-visualization-ggplot2.html)
